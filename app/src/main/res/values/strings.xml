@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PizzaHut</string>
+
+    <string name="boton_continuar">CONTINUAR</string>
+    <string name="titulo_main">BIENVENIDO</string>
+    <string name="msj_bienvenida">Ingresa tu dirreción para ubicar el Pizza Hut más cercano…</string>
+    <string name="tvProvincia">PROVINCIA</string>
+    <string name="tvDistrito">DISTRITO</string>
+    <string name="action_settings">Settings</string>
+</resources>
